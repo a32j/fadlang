@@ -1,4 +1,4 @@
-# fadlang
+# falang
 
 A new Frutiger Aero-inspired design language.
 
